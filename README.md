@@ -1,6 +1,6 @@
 # Bask demo
 
-A placeholder website with an encrypted password gate, hosted on GitHub Pages.
+An interactive Bask sun care concept with product animations, campaign directions, and a design reference library, protected by an encrypted password gate on GitHub Pages.
 
 - Website: https://qtyree1328.github.io/bask-demo/
 - Repository: https://github.com/qtyree1328/bask-demo
